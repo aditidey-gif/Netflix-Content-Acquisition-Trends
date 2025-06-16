@@ -3,14 +3,23 @@
 I’ve built this dynamic dashboard to analyze Netflix’s content trends over time. The key slicer here is “Became Available on Netflix In”, which is derived from the Date Added field—this represents the year a title was added to Netflix, regardless of its original release date. I extracted the year into a separate column to enable intuitive filtering.
 
 💡 Key KPIs tracked in this dashboard:
+
 ✅ Total Contents – Distinct count of unique titles added to Netflix.
+
 ✅ Total Movies – Number of movies in the total content library.
+
 ✅ Average Movie Duration – Average length (in minutes) of movies.
+
 ✅ Total TV Shows – Number of TV shows in the total content library.
+
 ✅ Average TV Show Seasons – Average number of seasons per TV show.
+
 ✅ Dominant Genre – Most frequent genre in Netflix acquisitions for the selected year. 
 
+
+
 📊 **Top Content Source Countries: Movies vs TV Shows**
+
 📌 United States Dominates
 The United States is by far the largest contributor of content to Netflix, with a huge lead in both movies and TV shows. The U.S. is the primary source of Netflix’s library.
 
@@ -29,6 +38,7 @@ While the U.S. dominates, other countries like India, United Kingdom, Japan, and
 
 
 📊 **Netflix Age Rating Distribution: Movies vs TV Shows**
+
 📌 TV-MA Dominates Netflix's Library
 The TV-MA (Mature Audience) rating has the highest number of titles by a significant margin — both for movies and TV shows. This clearly shows Netflix’s strong focus on mature content.
 
@@ -47,6 +57,7 @@ From the chart, it’s evident that from the very beginning, Netflix has priorit
 
 
 📊 **Yearly Growth of Netflix Library: Movies vs TV Shows**
+
 📌 Sharp Growth Since 2016:
 Netflix’s content library grew significantly starting in 2016, with both movies and TV shows being added at a much higher rate. Prior to 2016, content additions were minimal.
 
@@ -62,6 +73,7 @@ There is a noticeable decline in new content additions in 2020 and 2021 compared
 
 
 📊 **Trend of Unique Directors Acquired by Netflix (2008–2021)**
+
 📌 Minimal Growth Until 2014
 Between 2008 and 2014, the number of unique directors acquired by Netflix was very small, indicating limited content acquisitions during this period.
 
@@ -77,6 +89,7 @@ After 2019, there is a visible decline in the number of unique directors added, 
 
 
 📊 **Diversity of Genres in Netflix Acquisitions (2008–2021)**
+
 📌 Slow Start in Genre Diversity (2008–2013)
 Between 2008 and 2013, Netflix acquired content from only a small and fluctuating number of genres, ranging between 2 and 6. This shows a limited focus on genre variety in its early years.
 
