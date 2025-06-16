@@ -1,10 +1,10 @@
-🚀 Netflix Content Acquisition Dashboard (2008–2021)
+🚀 Netflix Content Acquisition Dashboard (2008–2021) 🚀
 
 BUILT IN MICROSOFT EXCEL
 
 I’ve built this dynamic dashboard to analyze Netflix’s content trends over time. The key slicer here is “Became Available on Netflix In”, which is derived from the Date Added field—this represents the year a title was added to Netflix, regardless of its original release date. I extracted the year into a separate column to enable intuitive filtering.
 
-💡 Key KPIs tracked in this dashboard:
+💡 **Key KPIs tracked in this dashboard:**
 
 ✅ Total Contents – Distinct count of unique titles added to Netflix.
 
@@ -19,6 +19,8 @@ I’ve built this dynamic dashboard to analyze Netflix’s content trends over t
 ✅ Dominant Genre – Most frequent genre in Netflix acquisitions for the selected year. 
 
 
+
+📊 **Project Insights**
 
 📊 **Top Content Source Countries: Movies vs TV Shows**
 
@@ -70,7 +72,7 @@ The highest growth occurred in 2018 and 2019, when Netflix added the largest num
 Movies consistently make up a larger share of the yearly additions compared to TV shows, as seen by the dominant red portion in the stacked bars.
 
 📌 Slowdown After 2019:
-There is a noticeable decline in new content additions in 2020 and 2021 compared to the peak years. This could reflect market saturation, strategic shifts, or external factors like the pandemic impacting acquisitions and production.
+There is a noticeable decline in new content additions in 2020 and 2021 compared to the peak years. 
 
 
 
@@ -86,7 +88,7 @@ There’s a sharp rise starting from 2015, with acquisitions surging dramaticall
 The number of unique directors peaked at 1,316 in 2019 — marking Netflix’s highest level of diversity in directorial talent.
 
 📌 Decline Post-2019
-After 2019, there is a visible decline in the number of unique directors added, with 2020 and 2021 showing fewer acquisitions. This could be due to strategic shifts, market saturation, or external factors like the pandemic affecting production and acquisitions.
+After 2019, there is a visible decline in the number of unique directors added, with 2020 and 2021 showing fewer acquisitions.
 
 
 
@@ -106,6 +108,24 @@ The chart highlights how Netflix evolved from a platform with narrow genre offer
 
 📌 Content Mix Strategy:
 While both types grew, the chart highlights Netflix’s stronger emphasis on movies for expanding its library, with TV shows playing a secondary but significant role.
+
+
+
+📁 **Project Files**
+
+This repository contains the following key files:
+
+netflix_raw.csv: This is the original raw dataset obtained from Kaggle. It contains the unprocessed data for Netflix titles.
+
+Netflix Dashboard.xlsx: This Excel file is the core analytical output of this project, providing a comprehensive dashboard and the underlying processed data. It is meticulously organized and contains:
+
+Cleaned Dataset: This sheet serves as the foundation of the analysis, holding the pre-processed and refined Netflix content data. It ensures the accuracy and reliability of all subsequent analyses, derived from the netflix_raw.csv file after cleaning and transformation.
+
+Core Pivot Tables: These tables form the analytical backbone, summarizing and consolidating the cleaned data into actionable metrics. Each pivot table is specifically designed to feed into the various visualizations on the dashboard.
+
+The Interactive Dashboard: This central component dynamically presents key performance indicators and trends through engaging charts and graphs, allowing for intuitive exploration of Netflix's content acquisition strategy.
+
+Supporting Data Table: An additional sheet provides a detailed tabular view of specific data related to the dashboard, offering granular insights that complement the high-level visualizations.
 
 
 
