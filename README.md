@@ -101,6 +101,7 @@ From 2016 onwards, Netflix consistently acquired content across 42 unique genres
 
 📌 Strategic Global Appeal
 The chart highlights how Netflix evolved from a platform with narrow genre offerings to one with wide-ranging content designed to appeal to a global and varied audience.
+
 📌 Content Mix Strategy:
 While both types grew, the chart highlights Netflix’s stronger emphasis on movies for expanding its library, with TV shows playing a secondary but significant role.
 
