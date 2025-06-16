@@ -1,5 +1,7 @@
 🚀 Netflix Content Acquisition Dashboard (2008–2021)
 
+BUILT IN MICROSOFT EXCEL
+
 I’ve built this dynamic dashboard to analyze Netflix’s content trends over time. The key slicer here is “Became Available on Netflix In”, which is derived from the Date Added field—this represents the year a title was added to Netflix, regardless of its original release date. I extracted the year into a separate column to enable intuitive filtering.
 
 💡 Key KPIs tracked in this dashboard:
