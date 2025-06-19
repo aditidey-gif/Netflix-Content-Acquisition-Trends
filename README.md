@@ -2,6 +2,8 @@
 
 ![Netflix Content Acquisition Dashboard]https://github.com/aditidey-gif/Netflix-Content-Acquisition-Trends/blob/main/Netflix_Dashboard_Image.png?raw=true
 
+![Netflix_Dashboard_image.png]
+
 **BUILT IN MICROSOFT EXCEL**  
 
 I’ve built this dynamic dashboard to analyze Netflix’s content trends over time.  
