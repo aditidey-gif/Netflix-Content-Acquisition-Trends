@@ -1,7 +1,7 @@
 # 🚀 Netflix Content Acquisition Dashboard (2008–2021) 🚀  
 
-![Netflix Content Acquisition Dashboard Image]https://github.com/aditidey-gif/Netflix-Content-Acquisition-Trends/blob/main/Netflix_Dashboard_Image.png?raw=true
-**CLICK ON THE LINK TO SEE THE DASHBOARD IMAGE**  
+<img width="1366" height="768" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/2abcf14d-4383-41a7-80c7-b70ae815e87b" />
+
 
 **BUILT IN MICROSOFT EXCEL**  
 
